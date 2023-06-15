@@ -1,4 +1,4 @@
-const api{
+const api = {
     key:"339e8964c3a9c3d9855ae9d61a5cb452",
     base:"https://api.openweathermap.org/data/2.5/"
 }
